@@ -15,8 +15,6 @@ Version alternative (avec BONUS) :
 4. Affichez le message final : "… + … + … = …".
 */
 
-
-
-
-
-
+const nombres = [11, 3, 7, 2, 9, 10];
+console.log("Voici mon tableau de nombres :");
+console.table(nombres);
